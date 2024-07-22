@@ -1,5 +1,5 @@
 # Documentation ![PHP](https://img.shields.io/badge/Markdown-000000?styke=for-the-bodge&logo=markdown&logoColor=white)
-***En esta sección se ubicaran los archivos que respalda el análisis previo al diseño de la aplicación
+En esta sección se ubicaran los archivos que respalda el análisis previo al diseño de la aplicación
 
 ## **ESTRUCTURA DE ARCHIVOS**
 
